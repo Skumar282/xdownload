@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Auto X Downloader</string>
+    <string name="share_action_label">Download with Auto X</string>
+    <string name="notification_channel_name">Media Downloads</string>
+    <string name="notification_channel_desc">Notifications for completed and pending media downloads</string>
+    <string name="notification_download_success">X Media Downloaded ✓</string>
+    <string name="notification_download_failed">Download Failed</string>
+    <string name="notification_downloading">Downloading X media…</string>
+</resources>

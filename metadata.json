@@ -1,0 +1,6 @@
+{
+  "name": "Auto X Downloader",
+  "description": "Fast, privacy-friendly native X (Twitter) media downloader with smart quality selection, clipboard detection, and Android Sharesheet integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
